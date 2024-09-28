@@ -5,6 +5,6 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 php:apache-buster
---platform=old php:7.4-apache-buster
+php:7.4-apache-buster
 redis
 mysql:5.6
