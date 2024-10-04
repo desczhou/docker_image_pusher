@@ -10,4 +10,4 @@
 #mysql:5.6
 #php:5.6-apache-buster
 #php:cakephp3.10
-cakephp/cakephp:3.10-apache
+cakephp:3.10-apache
