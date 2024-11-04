@@ -7,7 +7,7 @@
 #php:apache-buster
 #php:7.4-apache-buster
 #redis
-mysql:8.2.1
+mysql:8.2
 #php:5.6-apache-buster
 #php:cakephp3.10
 #cakephp:3.10-apache
